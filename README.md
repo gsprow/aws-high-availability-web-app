@@ -30,11 +30,6 @@ To accomplish this, traffic is distributed across multiple EC2 web servers using
 
 ---
 
-## Architecture
-
-*(Insert architecture diagram here.)*
-
----
 
 ## Deployment Steps
 
